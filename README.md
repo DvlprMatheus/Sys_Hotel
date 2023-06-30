@@ -6,8 +6,8 @@ Este trabalho foi desenvolvido utilizando JavaScript com o intuito de criar um s
 
 - [Como Usar](#como-usar)
 - [Funcionalidades](#funcionalidades)
-- [Contribuições](#contribuições)
 - [Tecnologias](#tecnologias)
+- [Contribuições](#contribuições)
 - [Licença](#licença)
 
 ## Como Usar
